@@ -1,0 +1,14 @@
+*~
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+*.zip
+# Gerber files
+DRV10987/gerber
+DRV10987_SAMD21uC/gerber
+mini_v2/gerber
+uCsamd21_mini/uCsamd21/gerber
